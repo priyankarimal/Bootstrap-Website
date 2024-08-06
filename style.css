@@ -1,0 +1,91 @@
+#navigation .navbar-brand
+{
+    color: rgb(43, 194, 182);
+}
+#navigation .btn
+{
+    background-color: #ffaa00;
+    color: white;
+    /* color: white; */
+    
+}
+   .display-3{
+    line-height:1.2;
+} 
+
+#intro .btn{
+    padding: 5px 45px 5px 45px;
+}
+
+#intro img{
+    border-radius: 100%;
+    object-fit: cover;
+    background-position: center;
+    width: 70%;
+    height: 124%;
+}
+.container h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#intro .container
+{
+    height:fit-content;
+}
+#choose.container{
+    height: fit-content;
+}
+#choose .couple{
+    border-radius: 100%;
+    object-fit: cover;
+    background-position: center;
+    width: 52%;
+    height: 123%;
+    
+}
+#plan h3{
+    text-align: center;
+}
+#plan p{
+    text-align: center;
+    line-height: 0.5em;
+}
+#signup footer{
+    background-color:  rgb(20, 138, 168);
+    border-radius: 6px;
+    height: 161px;
+    
+}
+.whyChooseUs ul{
+    list-style: none;
+    padding: 0;
+}
+.whyChooseUs ul li a img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    float: left;
+    margin-right: 10px
+}
+.whyChooseUs ul li a{
+    text-decoration: none;
+    color: black;
+}
+.whyChooseUs ul li a .chooseUsImageContainer{
+    background: #b9e6fa;
+    padding: 8px;
+    height: 40px;
+    width: 40px;
+    border-radius: 6px;
+    float:left;
+    margin-right: 10px;
+}
+.whyChooseUs h4{
+    margin:0;
+}
+.whyChooseUs ul li a:hover {
+    background: #b9e6fa;
+    display: block;
+    transition: 0.3s ease-in-out;
+}
+
+
